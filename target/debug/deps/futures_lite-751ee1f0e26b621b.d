@@ -1,0 +1,11 @@
+/Users/user/Desktop/rust_50/rust_sqlite/target/debug/deps/libfutures_lite-751ee1f0e26b621b.rmeta: /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-1.13.0/src/lib.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-1.13.0/src/future.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-1.13.0/src/prelude.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-1.13.0/src/stream.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-1.13.0/src/io.rs
+
+/Users/user/Desktop/rust_50/rust_sqlite/target/debug/deps/libfutures_lite-751ee1f0e26b621b.rlib: /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-1.13.0/src/lib.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-1.13.0/src/future.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-1.13.0/src/prelude.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-1.13.0/src/stream.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-1.13.0/src/io.rs
+
+/Users/user/Desktop/rust_50/rust_sqlite/target/debug/deps/futures_lite-751ee1f0e26b621b.d: /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-1.13.0/src/lib.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-1.13.0/src/future.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-1.13.0/src/prelude.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-1.13.0/src/stream.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-1.13.0/src/io.rs
+
+/Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-1.13.0/src/lib.rs:
+/Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-1.13.0/src/future.rs:
+/Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-1.13.0/src/prelude.rs:
+/Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-1.13.0/src/stream.rs:
+/Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-1.13.0/src/io.rs:
